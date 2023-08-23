@@ -33,8 +33,5 @@
 
 <br clear="both">
 
-
-<img src="https://raw.githubusercontent.com/Aakashx/Aakashx/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 ![](https://komarev.com/ghpvc/?username=Aakashx2838)
